@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#btn{
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    font-size: large;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
